@@ -70,7 +70,7 @@ exports.rlp = rlp
  * [`secp256k1`](https://github.com/cryptocoinjs/secp256k1-node/)
  * @var {Object}
  */
-exports.secp256k1 = secp256k1
+//exports.secp256k1 = secp256k1
 
 /**
  * Returns a buffer filled with 0s
